@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Applications/MAMP/htdocs/PruebaNet8/PruebaAPI/wwwroot/images/150a5ca1-304a-4f06-a39b-b96f38d9224c.jpg",
+      "PackagePath": "staticwebassets/images/150a5ca1-304a-4f06-a39b-b96f38d9224c.jpg"
+    },
+    {
+      "Id": "/Applications/MAMP/htdocs/PruebaNet8/PruebaAPI/wwwroot/images/1f797a86-d39e-48e6-99aa-921701de0ade.jpg",
+      "PackagePath": "staticwebassets/images/1f797a86-d39e-48e6-99aa-921701de0ade.jpg"
+    },
+    {
+      "Id": "/Applications/MAMP/htdocs/PruebaNet8/PruebaAPI/wwwroot/images/6799aee2-b9e5-4749-963a-00bbf529be0b.png",
+      "PackagePath": "staticwebassets/images/6799aee2-b9e5-4749-963a-00bbf529be0b.png"
+    },
+    {
+      "Id": "/Applications/MAMP/htdocs/PruebaNet8/PruebaAPI/wwwroot/images/c58a1330-962b-4d05-aa81-bb7da3e75ec5.png",
+      "PackagePath": "staticwebassets/images/c58a1330-962b-4d05-aa81-bb7da3e75ec5.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PruebaAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PruebaAPI.props",
+      "PackagePath": "build\\PruebaAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PruebaAPI.props",
+      "PackagePath": "buildMultiTargeting\\PruebaAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PruebaAPI.props",
+      "PackagePath": "buildTransitive\\PruebaAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
